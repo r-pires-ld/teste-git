@@ -7,3 +7,5 @@ git push = enviar commit para repositorio
 git config --global user.email "email"= criar direcionamento a conta do GitHub
 git config --global user.name "nome" = nome da pessoa que esta commitando
 git remote add origin link do repositorio = definir para onde o arquivo tem que ser enviado
+git reflog = verificar historico de commits
+git reset --hard id do commit = voltar ou avançar na versão do commit
