@@ -1,3 +1,9 @@
 git init= criar um repositorio na pasta
 git status = checar status de commit de arquivos
-git add "nome do arquivo" = adicionar arquivo no repositorio
+git add "nome do arquivo" = adicionar arquivo especifico no repositorio
+git add . = adicionar todos os arquivos não commitados no repositorio
+git commit -m "descrição" = commitar
+git push = enviar commit para repositorio
+git config --global user.email "email"= criar direcionamento a conta do GitHub
+git config --global user.name "nome" = nome da pessoa que esta commitando
+git remote add origin link do repositorio = definir para onde o arquivo tem que ser enviado
