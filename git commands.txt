@@ -1,0 +1,3 @@
+git init= criar um repositorio na pasta
+git status = checar status de commit de arquivos
+git add "nome do arquivo" = adicionar arquivo no repositorio
