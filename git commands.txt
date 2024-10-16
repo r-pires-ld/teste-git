@@ -14,3 +14,4 @@ git branch nome da branch = criar uma nova branch
 git checkout nome da branch = trocar a branch que esta sendo usado
 git merge nome da branch = juntar os arquivos das branch em um só arquivo (para fazer isso tem que ir para o branch principal )
 git pull = puxar do servidor a versão mais atual do codigo (antes do merge sempre fazem um git pull)
+git checkout -b nome da branch e nome da branch referencia = criar uma nova branch com base na branch principal
