@@ -11,4 +11,5 @@ git reflog = verificar historico de commits
 git reset --hard id do commit = voltar ou avançar na versão do commit
 git branch = verificar branchs existentes
 git branch nome da branch = criar uma nova branch
-git checkout nome da branch = trocar a branch que esta sendo usada
+git checkout nome da branch = trocar a branch que esta sendo usado
+git merge nome da branch = juntar os arquivos das branch em um só arquivo (para fazer isso tem que ir para o branch principal )
